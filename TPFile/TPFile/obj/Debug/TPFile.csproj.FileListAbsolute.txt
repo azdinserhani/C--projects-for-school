@@ -1,0 +1,20 @@
+C:\Users\Pc-01\Documents\Visual Studio 2008\Projects\TPFile\TPFile\bin\Debug\TPFile.exe
+C:\Users\Pc-01\Documents\Visual Studio 2008\Projects\TPFile\TPFile\bin\Debug\TPFile.pdb
+C:\Users\Pc-01\Documents\Visual Studio 2008\Projects\TPFile\TPFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc-01\Documents\Visual Studio 2008\Projects\TPFile\TPFile\obj\Debug\TPFile.Form1.resources
+C:\Users\Pc-01\Documents\Visual Studio 2008\Projects\TPFile\TPFile\obj\Debug\TPFile.Properties.Resources.resources
+C:\Users\Pc-01\Documents\Visual Studio 2008\Projects\TPFile\TPFile\obj\Debug\TPFile.csproj.GenerateResource.Cache
+C:\Users\Pc-01\Documents\Visual Studio 2008\Projects\TPFile\TPFile\obj\Debug\TPFile.exe
+C:\Users\Pc-01\Documents\Visual Studio 2008\Projects\TPFile\TPFile\obj\Debug\TPFile.pdb
+D:\TPFile\TPFile\obj\Debug\TPFile.exe
+D:\TPFile\TPFile\obj\Debug\TPFile.pdb
+D:\TPFile\TPFile\bin\Debug\TPFile.exe
+D:\TPFile\TPFile\bin\Debug\TPFile.pdb
+D:\TPFile\TPFile\obj\Debug\ResolveAssemblyReference.cache
+D:\TPFile\TPFile\obj\Debug\TPFile.Form1.resources
+D:\TPFile\TPFile\obj\Debug\TPFile.Properties.Resources.resources
+D:\TPFile\TPFile\obj\Debug\TPFile.csproj.GenerateResource.Cache
+E:\TPFile\TPFile\obj\Debug\TPFile.exe
+E:\TPFile\TPFile\obj\Debug\TPFile.pdb
+E:\c#\TPFile\TPFile\obj\Debug\TPFile.exe
+E:\c#\TPFile\TPFile\obj\Debug\TPFile.pdb

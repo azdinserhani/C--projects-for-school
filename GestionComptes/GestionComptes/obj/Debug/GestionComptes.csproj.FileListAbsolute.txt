@@ -1,0 +1,12 @@
+D:\c#\GestionComptes\GestionComptes\bin\Debug\GestionComptes.exe
+D:\c#\GestionComptes\GestionComptes\bin\Debug\GestionComptes.pdb
+D:\c#\GestionComptes\GestionComptes\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\GestionComptes\GestionComptes\obj\Debug\GestionComptes.Form1.resources
+D:\c#\GestionComptes\GestionComptes\obj\Debug\GestionComptes.Form2.resources
+D:\c#\GestionComptes\GestionComptes\obj\Debug\GestionComptes.Properties.Resources.resources
+D:\c#\GestionComptes\GestionComptes\obj\Debug\GestionComptes.csproj.GenerateResource.Cache
+D:\c#\GestionComptes\GestionComptes\obj\Debug\GestionComptes.exe
+D:\c#\GestionComptes\GestionComptes\obj\Debug\GestionComptes.pdb
+D:\c#\GestionComptes\GestionComptes\obj\Debug\GestionComptes.Menu.resources
+E:\c#\GestionComptes\GestionComptes\obj\Debug\GestionComptes.exe
+E:\c#\GestionComptes\GestionComptes\obj\Debug\GestionComptes.pdb
